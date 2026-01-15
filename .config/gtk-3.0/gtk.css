@@ -1,0 +1,9 @@
+/* Rounded corners for XFCE panel */
+   #xfce4-panel {
+       border-radius: 10px;
+   }
+   
+   /* Or target specific panels */
+   #XfcePanelWindow {
+       border-radius: 10px;
+   }
